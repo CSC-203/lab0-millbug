@@ -27,6 +27,7 @@ public class Lab00
    }
 
 
+
       // function definition
       public static int char_count (String s, char c) {
          int count = 0;
